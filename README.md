@@ -121,11 +121,8 @@ The frontend is served from the **public** directory and includes:
 
 ## 📸 Screenshots
 
-### 🔹 Folder Structure
-![Project Structure](Screenshot_2025-03-12_at_3.10.48_PM.png)
-
 ### 🔹 UI Example
-![UI Screenshot](Screenshot_2025-03-12_at_3.00.45_PM.png)
+![UI Screenshot](PORTAL SS.png)
 
 ---
 
